@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav</h1>
+<h1 align="center">H!!👋, I'm Sourav</h1>
 
 <h3 align="center"> MCA Student Having Interest On Cloud computing And Learning Full stack| AI </h3>
 
@@ -25,11 +25,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sourav-codez&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-codez&layout=compact&theme=tokyonight)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourav-codez&theme=tokyonight)
 
 ---
